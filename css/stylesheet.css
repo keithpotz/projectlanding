@@ -45,7 +45,7 @@ header{
   min-height: 75px;
   padding: 0px 20px;
   display: flex;
-  justify-content:space-arond;
+  justify-content:space-around;
   align-items: center;
   background-color: #ccccff;
   @media (max-width: 600px){
