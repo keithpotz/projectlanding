@@ -41,6 +41,7 @@ a {
 }
 header{
   position: fixed;
+  z-index: 10;
   top: 0;
   min-height: 75px;
   padding: 0px 20px;
